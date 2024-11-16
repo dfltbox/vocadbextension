@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Noto+Sans+JP:wght@400;700&display=swap"');
+
+body {
+    background-color: #313638;
+    color: #f7fff7;
+    text-align: center;
+    font-family: 'Open Sans', 'Noto Sans JP', sans-serif;
+}
+
+.platform {
+    font-weight: 5DO 00;
+    color: #6ca6c1;
+    text-decoration: none;
+}
+
+.vocaltype {
+    font-weight: bold;
+    font-size: 10px;   
+    border-radius: 8px;
+    padding: 2px 6px;
+    color: black;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.utau {
+    background-color: greenyellow;
+}
+
+.vocaloid {
+    background-color: aquamarine;
+}
+
+.synthv {
+    background-color: deeppink;
+}
+
+.currentlylistening {
+    font-weight: bold;
+    background-color: #131516;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 2px 6px;
+    display: inline-block;
+}
+
+html
+{
+    width: 300px; 
+    height: 300px; 
+}

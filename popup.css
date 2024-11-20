@@ -35,7 +35,7 @@ body {
 
 .main {
     position: relative;
-    background-image: url('https://i.ytimg.com/vi/19y8YTbvri8/default.jpg');
+    background-image: url('/assets/placeholder/badfon-vocaloid-hatsune-miku-3507.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -51,7 +51,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('https://i.ytimg.com/vi/19y8YTbvri8/default.jpg');
+    background-image: url('/assets/placeholder/badfon-vocaloid-hatsune-miku-3507.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="popup.css" />
+    <link rel="stylesheet" href="options.css" />
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <h2 class="settings">Settings</h2>
+
+<label for="languages">Language: </label>
+<select name="languages" id="languages">
+    <option value="ja">Japanese</option>
+    <option value="en">English</option>
+    <option value="rm">Romanji</option>
+    <option value="default">Default</option>
+  </select>
+  <label>
+    <input type="checkbox" id="hidetag" class=""/>
+    Hide artist tag
+  </label>
+  <div id="status"></div>
+  <button id="save">Save</button>
+
+    <script src="options.js"></script>
+  </body>
+</html>

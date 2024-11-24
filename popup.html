@@ -1,23 +1,28 @@
 <html>
   <head>
-    <link rel="stylesheet" href="popup.css">
-    <meta charset="UTF-8">
+    <link rel="stylesheet" href="popup.css" />
+    <meta charset="UTF-8" />
   </head>
   <body>
-    <h2 style="font-weight: normal;">
+    <h2 style="font-weight: normal">
       <div class="main">
-        <a class="currentlylistening name" href="" style="color: #6ca6c1;">⠀</a>
+        <a
+          class="currentlylistening name"
+          target="_blank"
+          href=""
+          style="color: #6ca6c1"
+          >⠀</a
+        >
       </div>
     </h2>
-  
-    <h2 class="loading">Loading</h2>
+
+    <h2 class="loading">Loading...</h2>
     <div class="vocalists">
-        <img class="loadingmiku" src="/assets/placeholder/loading.gif">
+      <img class="loadingmiku" src="/assets/placeholder/loading.gif" />
     </div>
 
-
+    <footer>Data from vocadb.xyz</footer>
+    <button id="go-to-options">Settings</button>
     <script src="popup.js"></script>
   </body>
-  
 </html>
-

@@ -21,9 +21,8 @@
 
 - [x] Basic Artist Info
 - [x] Images for artists
-- [ ] Add info for release date, length etc
-- [ ] Add a settings page
-- [ ] Clean up my code cause its really messy rn
+- [x] Add platform links
+- [ ] Options page 
 
 
 <!-- CONTRIBUTING -->

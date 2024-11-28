@@ -7,6 +7,9 @@
       "default_popup": "popup.html",
       "default_icon": "extension.png"
     },
+    "icons": {
+      "48": "extension.png"
+    },
     "permissions": [
         "activeTab"
     ]

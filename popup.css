@@ -9,6 +9,13 @@ body {
   font-family: "Open Sans", "Noto Sans JP", sans-serif;
 }
 
+html, body {
+  width: 300px;
+  height: 300px;
+  margin: 0; /* Avoid default margin */
+  padding: 0; /* Avoid default padding */
+}
+
 .smallicon {
   width: 20px;
   height: 20px;
@@ -146,11 +153,6 @@ button {
   margin-top: 5px;
   padding: 2px 6px;
   display: inline-block;
-}
-
-html {
-  width: 300px;
-  height: 300px;
 }
 
 h3 a {

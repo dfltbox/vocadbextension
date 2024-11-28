@@ -15,7 +15,7 @@
     Not officially affiliated with VocaDB
 </div>
 
-<img src="assets/Screenshots/Screenshot_20241124_150054.png" alt="Screenshot of the extension">
+<img src="assets/Screenshots/Screenshot_20241128_144447.png" alt="Screenshot of the extension">
 <!-- ROADMAP -->
 ## Roadmap
 

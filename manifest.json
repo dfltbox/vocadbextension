@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "VocaDB extension",
+    "name": "VocaInfo",
     "description": "Gives you info on the vocaloid song you're listening to (data from vocadb.net)",
     "version": "1.0",
     "action": {

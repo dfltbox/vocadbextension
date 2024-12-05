@@ -15,6 +15,11 @@
     Not officially affiliated with VocaDB
 </div>
 
+  [Get it from the chrome webstore!](https://chromewebstore.google.com/detail/vocainfo/cgchjppbiapnjeedgfponhpajohleiji)
+  
+  Firefox extension soon (if im not lazy)
+  
+
 <img src="assets/Screenshots/Screenshot_20241128_144447.png" alt="Screenshot of the extension">
 <!-- ROADMAP -->
 ## Roadmap
